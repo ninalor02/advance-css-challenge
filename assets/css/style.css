@@ -1,32 +1,42 @@
 *{
     box-sizing: border-box;
+    width: 10px 10px 25px 10px;
 }
 
 header{
     color:antiquewhite;
-    padding: 10px 5px 10px 5px;
+    margin: auto;
     background-color: gray;
     font-size: larger;
     display: block;
 }
 
-*nav{
+nav{
+
+}
+
+nav{
     margin: 20px;
     border: 25px 5px 25px 5px antiquewhite;
     padding: 10px;
-    font-size: small;
-    display:flexbox;
-    text-align: center;
+    display:block  
 }
-.p{
+
+.h1{
+    content: 5px 10px 5px 10px;
+    text-align: left;
+    background-color: aqua;
+}
+section, p{
     font-size: medium;
-    text-align: right;
+    text-align: left;
     display:flexbox;
 }
 a{
-    font-size: 16px;
+    font-size: large;
     color:antiquewhite;
     display: inline-block;
+    text-align: center;
     text-align: right;
 }
 
@@ -36,14 +46,53 @@ body{
 }
 
 aside{
-    line-height: 350px;
-    font-size: 400%;
-    padding: 5px 10px 5px 10px;
-    background-color: bisque;
+    flex-direction: column;
+    border: 5px 15px 5px 15px;
+    padding: 15px 15px 5px 15px;
+    margin: 15px 15px 15px 15px;
+    float: left;
+    box-decoration-break: inset 5px 0 5px 0px #29627e;
+    color: #29627e;
     
 }
 
-@media screen and (min-width: 480px) {
-    #leftsidebar {width: 200px; float: left;}
-    #main {margin-left: 216px;}
-  }
+main{
+    float:right;
+    background-color: black;
+    padding: 0px;
+    border: 0px;
+}
+
+content{
+
+}
+
+.p{
+    border: ;
+    text-align: right;
+    margin: 5px 5px 5px 5px;
+}
+footer{
+    background-color: black;
+    word-spacing: 25px;
+    color:gray;
+    font-size: small;
+    display:flexbox;
+    text-align: center;
+}
+@media screen and (max-width: 768px) {
+    main,
+    nav{
+        flex-direction: column;
+    }
+    aside {
+        order:2;
+    }
+    header{
+        background: #29627e;
+    }
+    nav,
+    footer{
+        background-color: blue;
+    }
+}

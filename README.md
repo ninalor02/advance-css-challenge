@@ -16,4 +16,5 @@ These are the following files and folders that are placed in the folders:
 * https://www.w3schools.com/css/css_positioning.asp
 * https://www.w3schools.com/css/css_boxmodel.asp
 * https://www.w3schools.com/css/css3_mediaqueries.asp
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
 * 
