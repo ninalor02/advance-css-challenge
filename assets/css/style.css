@@ -4,34 +4,35 @@
 }
 
 header{
-    color:antiquewhite;
-    margin: auto;
-    background-color: gray;
     font-size: larger;
     display: block;
 }
 
 nav{
-
-}
-
-nav{
+    text-align: right;
     margin: 20px;
     border: 25px 5px 25px 5px antiquewhite;
     padding: 10px;
     display:block  
 }
 
-.h1{
+h1{
+    display: flexbox;
     content: 5px 10px 5px 10px;
     text-align: left;
     background-color: aqua;
 }
-section, p{
+
+h2{
+    text-align: right;
+}
+
+p{
     font-size: medium;
     text-align: left;
     display:flexbox;
 }
+
 a{
     font-size: large;
     color:antiquewhite;
@@ -53,7 +54,6 @@ aside{
     float: left;
     box-decoration-break: inset 5px 0 5px 0px #29627e;
     color: #29627e;
-    
 }
 
 main{
@@ -63,16 +63,18 @@ main{
     border: 0px;
 }
 
-content{
-
+p {
+    background-image: url('Screenshot-header.png');
 }
 
 .p{
-    border: ;
+    border: 15px 15px 15px 15px;
     text-align: right;
     margin: 5px 5px 5px 5px;
 }
+
 footer{
+    padding: 15px 15px 15px 15px;
     background-color: black;
     word-spacing: 25px;
     color:gray;
