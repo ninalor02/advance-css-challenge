@@ -203,14 +203,10 @@ ul.bottomNav{
     color: var(--bottom-link-color);
 }
 
-@media and (max-width: 900px) {
+@media screen and (max-width: 768px) {
+    
     header{
-        background-color: var(--header-bgcolor);
-        display: flex;
-        padding: 0;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: space-between;
+        
     }
 
     header h1{
