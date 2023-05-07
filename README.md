@@ -8,7 +8,8 @@ These are the following files and folders that are placed in the folders:
 - The index.html file is in the advance-css-challenge folder.
 - The README.md file is in the advance-css-challenge folder.
 - The css folder is placed inside the assets folder.
-- Inside the css folder, is the style.css file.
+- Inside the css folder contains the style.css file.
+- Inside the css folder contains the reset css file.
 - Image files are in the Images folder.
 - The Image folder is in the assets folder.
 
@@ -19,9 +20,11 @@ These are the following files and folders that are placed in the folders:
 * https://www.w3schools.com/css/css_boxmodel.asp
 * https://www.w3schools.com/css/css3_mediaqueries.asp
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
-
 * https://www.w3schools.com/Html/html_filepaths.asp
 * https://www.w3schools.com/html/html_images_background.asp
+* https://www.w3schools.com/howto/howto_css_hero_image.asp
+* https://www.w3schools.com/tags/att_input_type_tel.asp#:~:text=The%20%3Cinput%20type%3D%22tel,tag%20for%20best%20accessibility%20practices!
+* 
 
 
  

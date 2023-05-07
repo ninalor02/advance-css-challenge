@@ -4,47 +4,136 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/reset.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css"/>
+
     <title>Advance CSS Challenge</title>
     <p style="background-image: url(Screenshot-header.png);"></p>
-    
-<header class="main-header">
-        
-        
-        <nav>
-        <h1>Lernantino</h1>
-            <a href="#">About Me</a>
-            <a href="#">Work</a>
-            <a href="#">Contact Me</a>
-            <a href="#">Resume</a>
-        <h2>Cool subtitle here!</h2>
-        </nav>
-    </header>
 </head>
-<body>
-    <aside>
-        <p>About Me</p>
-        <p>Work</p>
-        <p>Contact Me</p>
-</aside>
-<main>
-    
 
-    <section id="content">
-            <p>Helvetica put a bird on it church-key Blue bottle banjo bespoke brunch Etsy authentic marfa quinoa typewriter plaid direct trade small batch wayfares bicyle rights cliche craft beer gastropub single-origin coffee Godard Carles you probablt haven't heard of them irony pickled kitsch synth sriacha gentrify literally heriloom blog Truffaut laeo scenester.</p>
-    </section>
+<body>
+
+    <header>
+        
+        <h1><a href="index.html"></a>Lernantino</h1>
+    <nav>
+        <ul class="topNav">
+            <li><a href="#about">About Me</a></li> 
+            <li><a href="#work">Work</a></li> 
+            <li><a href="#contact">Contact Me</a></li> 
+            <li><a href="#resume">Resume</a></li>
+        </ul>    
+    </nav>
+</header>
     
-    <section id="content">
-            <p>Echo Park sriacha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art part letterpress Tumbler post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggins Schlitx chambray organic tousled retro fap quid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.</p>
+    <section>
+        <div>
+            <h2>Cool subtitle here!</h2>
+        </div>
     </section>
-    
-</main>
+
+<main>
+    <section class="contaniner">
+        <h2>About Me</h2>
+    </section>
+    <section>
+                <img class="profile" src="Screenshot-header.png" alt="Screenshot-header">
+    </section>
+    <p>Helvetica put a bird on it church-key Blue bottle banjo bespoke brunch 
+        Etsy authentic marfa quinoa typewriter plaid direct trade small batch 
+        wayfares bicyle rights cliche craft beer gastropub single-origin coffee 
+        Godard Carles you probablt haven't heard of them irony pickled kitsch 
+        synth sriacha gentrify literally heriloom blog Truffaut laeo scenester.
+    </p>
+
+    <p>Echo Park sriacha Pinterest vegan biodiesel 90's irony iPhone Kickstarter 
+        Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage 
+        art part letterpress Tumbler post-ironic kogi Thundercats Tonx Brooklyn 
+        Pitchfork Odd Future authentic normcore freegan leggins Schlitx chambray 
+        organic tousled retro fap quid street art church-key fashion axe Wes 
+        Anderson bespoke whatever gentrify banh mi you probably haven't heard of 
+        them American Apparel next level pug ugh.</p>
+
+    <section class="page-section" id="work">
+        <h2>Work</h2>
+    </section>
+
+    <section id="portfolio">
+        <figure class="p0">
+                <a href="#">
+                    <img src="avatar.png" alt="Avatar" class="avatar"></img>
+        <figcaption>
+            <h3>Surf Report</h3>
+            <p>MERN Stack></p>
+        </figcaption>
+                </a>
+            </figure>
+            <figure class="p1">
+                <a href="#">
+                    <img src="surf.jpg" alt="portfolio 1" width="500" height="200">
+                </a>
+            </figure>
+
+        <figcaption>
+            <h3>LED Wall</h3>
+            <p>Node/IoT</p>
+        </figcaption>
+            <figure class="p2">
+                <a href="#">
+                    <img src="led lights.jpeg" alt="portfolio 2" width="500" height="200">
+                </a>
+            </figure>
+        
+        <figcaption>
+                <h3>Calculator</h3>
+                <p>React/Javascript/CSS</p>
+        </figcaption>
+            <figure class="p3">
+                    <a href="#">
+                    <img src="calculator.jpg" alt="portfolio 3" width="500" height="200">
+                    </a>
+            </figure>
+            
+        <figcaption>
+                    <h3>Pastel Puzzel</h3>
+                    <p>MERN Stack</p>
+        </figcaption>
+            <figure class="p4">
+                    <a href="#">
+                        <img src="pastel puzzels.jpg" alt="portfolio 4" width="500" height="200">
+                    </a>
+            </figure>
+
+            <figcaption>
+                <h3>Run Buddy</h3>
+                <p>HTML/CSS</p>
+        </figcaption>
+            <figure class="p5">
+                    <a href="#">
+                        <img src="run-buddy.png" alt="portfolio 5" width="500" height="200">
+                    </a>
+        </figure>
+    </section>       
+
+    <section>
+        <h2>Contact Me</h2>
+    </section>
+    <section>
+        <ul class="bottomNav">
+            <li><a href="tel:+5555555555">555.555.5555</a></li>
+            
+            <li><a href="mailto:lernantino@website.com">lernantino@website.com</a></li>
+            
+            <li><a href="https://github.com/" target="blank">Github</a></li>
+            
+            <li><a href="https://twitter.com/" target="blank">Twitter</a></li>
+            
+            <li><a href="https://open.spotify.com/?" rel="noopener noreferrer">spotify</a></li>
+        </ul>
+    </section>
+
     <footer>
-        <a href="#">555.555.5555</a>
-        <a href="#">ninalor02@gmail.com</a>
-        <a href="#">Github</a>
-        <a href="#">Twitter</a>
-        <a href="#">spotify</a>
+       ~ This is a very advance challenge! ~
     </footer>
 </body>
 </html>
