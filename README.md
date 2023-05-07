@@ -14,7 +14,7 @@ These are the following files and folders that are placed in the folders:
 - The Image folder is in the assets folder.
 
 
-# Websites that was used as references for layouts and codes:
+# Websites that was used as references for layouts and codes both for CSS/HTML:
 
 * https://www.w3schools.com/css/css_positioning.asp
 * https://www.w3schools.com/css/css_boxmodel.asp
@@ -23,7 +23,9 @@ These are the following files and folders that are placed in the folders:
 * https://www.w3schools.com/Html/html_filepaths.asp
 * https://www.w3schools.com/html/html_images_background.asp
 * https://www.w3schools.com/howto/howto_css_hero_image.asp
+* https://www.google.com/search?q=what+is+hero+banner+for+html&rlz=1C1ONGR_enUS1049US1049&oq=what+is+hero+banner+for+html&aqs=chrome..69i57j33i160i395l3j33i22i29i30i395.556j1j15&sourceid=chrome&ie=UTF-8
 * https://www.w3schools.com/tags/att_input_type_tel.asp#:~:text=The%20%3Cinput%20type%3D%22tel,tag%20for%20best%20accessibility%20practices!
+* https://www.w3schools.com/css/css3_variables.asp
 * 
 
 
