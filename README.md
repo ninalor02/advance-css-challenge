@@ -32,6 +32,10 @@ These are the following files and folders that are placed in the folders:
  
 # Images that was used for backgrounds:
 
+* Profile Avatar
+
+https://www.google.com/search?q=blank+avatar&rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdcu3yknst_MlJExNBOmh5-eqPhuWw:1683509554325&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSptjnyeT-AhVuFTQIHQjdAcQQ0pQJegQIBxAC&biw=1280&bih=649&dpr=1.5#imgrc=Oe0LeKnyyURTIM
+
 * Surf
 
 https://www.google.com/search?q=surf+pictures&tbm=isch&chips=q:surfing+pictures,g_1:wallpaper:KXCAKCEky2U%3D&rlz=1C1ONGR_enUS1049US1049&hl=en&sa=X&ved=2ahUKEwj1yeWU4-H-AhV-P94AHf-PD1QQ4lYoAHoECAEQLA&biw=1903&bih=872#imgrc=XIYIYOL1HmipeM
