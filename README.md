@@ -24,14 +24,16 @@ These are the following files and folders that are placed in the folders:
 * https://www.w3schools.com/css/css3_variables.asp
 * 
 
-
- 
 # Images/URL that was used for backgrounds:
 
-* Work Image (google) url
+* coffee Image (google) url
 
 https://www.google.com/search?rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdf-HbXcewy6WG8UagygewoKW6mSPQ:1683775666654&q=work+and+coffee+image&tbm=isch&sa=X&ved=2ahUKEwjg6feTqez-AhVllIkEHRprAVcQ0pQJegQICRAB&biw=1280&bih=649&dpr=1.5#imgrc=1qAXHae4pCfDIM
 
 * laptop image (google) url
 
 https://www.google.com/search?rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdf-HbXcewy6WG8UagygewoKW6mSPQ:1683775666654&q=work+and+coffee+image&tbm=isch&sa=X&ved=2ahUKEwjg6feTqez-AhVllIkEHRprAVcQ0pQJegQICRAB&biw=1280&bih=649&dpr=1.5#imgrc=0X1IbkybPHTo_M
+
+* coding image (gogole) url
+
+https://www.google.com/search?q=coding+images&tbm=isch&ved=2ahUKEwi_lc3Tvez-AhWkKd4AHc3nAVoQ2-cCegQIABAA&oq=coding+images&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CQgAEBgQgAQQCjoHCAAQigUQQzoKCAAQigUQsQMQQzoECAAQAzoFCAAQsQM6CAgAELEDEIMBULEHWKYVYKUWaABwAHgAgAFmiAH_B5IBBDEyLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=MHZcZL-9NaTT-LYPzc-H0AU&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=r2l_Vk9_4zZ9dM

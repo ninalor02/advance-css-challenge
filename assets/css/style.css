@@ -1,5 +1,9 @@
 :root{
     color:bisque;
+    --nav-link-hover: gray;
+    --profile-link-hover:purple;
+    --footer-link-hover:blue;
+
 }
 
 body{
@@ -24,11 +28,12 @@ div.container{
 nav, li{
     color: wheat;
     text-decoration: none;
-    font-size: medium;
-    text-align: center;
+    font-size: 40px;
     flex-wrap: wrap;
 }
 nav, li, a{
+    text-align: center;
+    font-size: 45px;
     display: inline-block;
     list-style-type: none;
     display: flex;
@@ -36,13 +41,16 @@ nav, li, a{
  }
 
  h2{
-    justify-content:center ;
+    justify-content:center;
     text-align: center;
     background-color:rgb(110, 71, 23);
  }
+ p{
+    font-size: 30px;
+ }
 
  h3{
-    font-size: small;
+    font-size: medium;
  }
 
  .profile{
@@ -62,7 +70,7 @@ nav, li, a{
     text-align: justify;
  }
 
- .p1, .p2, .p3{
+ .p0.p1, .p2, .p3{
     display: block;
     margin-left:auto;
     margin-right: auto;
@@ -74,17 +82,16 @@ nav, li, a{
  footer{
     color:beige;
     list-style-type: none;
-    font-size: medium;
-    text-align: center;
+
  }
 
- footer, li{
+ footer, ul, nav, li{
+    font-size: 30px;
     list-style-type: none;
     text-align: right;
 
  }
 
- 
  @media screen and (max-width: 768px){
     header{
         padding:0;
@@ -106,6 +113,7 @@ nav, li, a{
     }
 
     nav a{
+        border-bottom: 3px solid var(--nav-link-border);
         font-size: small;
         justify-content: space-between;
         display: flex;
