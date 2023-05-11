@@ -1,19 +1,35 @@
+:root{
+    color:bisque;
+}
+
+body{
+    background-image: url(../images/coffee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 header{
     font-size: larger;
     text-align: center;
     color: wheat;
     background-size: cover;
-    background-image: url("../images/Screenshot-header.png");
+    background-image: url("../images/laptop.jpg");
     background-repeat:no-repeat;
 }
 
-li{
-    text-decoration: none;
-    font-size: large;
+div.container{
     text-align: center;
-    list-style: none;
 }
- li, a{
+
+nav, li{
+    color: wheat;
+    text-decoration: none;
+    font-size: medium;
+    text-align: center;
+    flex-wrap: wrap;
+}
+nav, li, a{
+    display: inline-block;
     list-style-type: none;
     display: flex;
     border: 5px 5px 5px 5px;
@@ -22,16 +38,111 @@ li{
  h2{
     justify-content:center ;
     text-align: center;
-    background-color: aquamarine;
+    background-color:rgb(110, 71, 23);
+ }
+
+ h3{
+    font-size: small;
  }
 
  .profile{
+    text-align: center;
     width: 50%;
     margin-right: auto;
     margin-left:auto;
     display: block ;
  }
 
- .section{
+ .profile, img{
+    max-width: 20%;
+    height: auto;
+ }
+
+ .profile, .p{
+    text-align: justify;
+ }
+
+ .p1, .p2, .p3{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+ text-align: center;
+
+ }
+
+ footer{
+    color:beige;
+    list-style-type: none;
+    font-size: medium;
     text-align: center;
  }
+
+ footer, li{
+    list-style-type: none;
+    text-align: right;
+
+ }
+
+ 
+ @media screen and (max-width: 768px){
+    header{
+        padding:0;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items:center;
+        display: flex;
+    }
+
+    header h1{
+        text-align: center;
+        padding: 0;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    header nav{
+        padding-right: 0;
+    }
+
+    nav a{
+        font-size: small;
+        justify-content: space-between;
+        display: flex;
+        width: 100%;
+    }
+
+    #profile{
+        grid-template-rows: 100px 100px 100px 100px;
+        grid-template-columns: 30%;
+        display: grid;
+        width: 100%;
+        grid-template-areas:
+        "p0"
+        "p1"
+        "p2"
+        "p3";
+    }
+
+    .page-section{
+        border-bottom: 4px solid var(--section-border);
+        border-right: 0;
+    }
+
+    h2{
+        text-align: center;
+    }
+
+    #portfolio img{
+        height: 190px;
+    }
+
+    footer{
+        padding: 0%;
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+
+}
