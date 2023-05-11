@@ -49,3 +49,7 @@ https://www.google.com/search?q=tutor+images&tbm=isch&ved=2ahUKEwiZ59fMwez-AhVCF
 * avatar profile image
 
 https://www.google.com/search?rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdeHCysdlILz6KCEJxy2D03EFdLOBg:1683793973419&q=blank+avatar+images&tbm=isch&sa=X&ved=2ahUKEwjDi6St7ez-AhUsj4kEHWppBk4Q0pQJegQIDBAB&biw=1280&bih=592&dpr=1.5#imgrc=nzYHLSmqGIaoNM
+
+* Trio image
+
+https://www.google.com/search?q=trio+image+html+css+js&tbm=isch&ved=2ahUKEwix5_qj0-3-AhUrwckDHQKHBU4Q2-cCegQIABAA&oq=trio+image+html+css+js&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAcQHjoGCAAQBRAeOgYIABAIEB5QzQlYqiNgqCRoAHAAeACAAZUBiAHSCJIBBDEwLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=FhNdZLGEEauCp84Pgo6W8AQ&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=7HTA_i4K9G337M
