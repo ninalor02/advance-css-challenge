@@ -30,28 +30,20 @@ These are the following files and folders that are placed in the folders:
 
 
  
-# Images that was used for backgrounds:
+# Images and URL that was used for backgrounds:
 
-* Profile Avatar
+* HTML (google) url
 
-https://www.google.com/search?q=blank+avatar&rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdcu3yknst_MlJExNBOmh5-eqPhuWw:1683509554325&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSptjnyeT-AhVuFTQIHQjdAcQQ0pQJegQIBxAC&biw=1280&bih=649&dpr=1.5#imgrc=Oe0LeKnyyURTIM
+https://www.google.com/search?q=html+image&rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEddyT0VBytaQT6SJ1f38NCno4lSt2w:1683765923866&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjplJvuhOz-AhWhtYkEHbmtAr0Q0pQJegQIBxAC&biw=1280&bih=649&dpr=1.5#imgrc=b1vPU_j7TxwW7M
 
-* Surf
+* CSS (google) url
 
-https://www.google.com/search?q=surf+pictures&tbm=isch&chips=q:surfing+pictures,g_1:wallpaper:KXCAKCEky2U%3D&rlz=1C1ONGR_enUS1049US1049&hl=en&sa=X&ved=2ahUKEwj1yeWU4-H-AhV-P94AHf-PD1QQ4lYoAHoECAEQLA&biw=1903&bih=872#imgrc=XIYIYOL1HmipeM
+https://www.google.com/search?q=CSS+image&tbm=isch&ved=2ahUKEwjGx8fvhOz-AhViGN4AHYU-Bs4Q2-cCegQIABAA&oq=CSS+image&gs_lcp=CgNpbWcQAzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEOgQIIxAnOgYIABAHEB5QnQhYpQtgtAxoAHAAeACAAYcDiAHhBJIBBTMuMy0xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=pjpcZMbcKeKw-LYPhf2Y8Aw&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=O23NpgO_zPE4hM
 
-* LED Lights
+* Javascript/JS (google) url
 
-https://www.google.com/search?q=red+led+wallpaper+with+dots&tbm=isch&ved=2ahUKEwjYrLHureP-AhWnFN4AHXTGC9AQ2-cCegQIABAA&oq=red+led+wallpaper+with+dots&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAcQHjoGCAAQCBAeOgQIABAeOgYIABAFEB5QmQdYwBZgvxdoAHAAeACAAZQBiAGyBpIBBDEwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=rK1XZNimGqep-LYP9IyvgA0&bih=872&biw=1920&rlz=1C1ONGR_enUS1049US1049#imgrc=2AA354gZipfsaM
+https://www.google.com/search?q=Javascript+image&tbm=isch&ved=2ahUKEwjQwer-hez-AhXUEt4AHQF3AnQQ2-cCegQIABAA&oq=Javascript+image&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BggAEAcQHjoHCAAQigUQQ1CVB1jkFmCyGGgAcAB4AIABoASIAfAakgELMi4yLjEuMi4yLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=0ztcZJCMCdSl-LYPge6JoAc&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=OYQ59qpDUQL6MM
 
-* Pastel Puzzel
 
-https://www.google.com/search?q=half+two+color+background&tbm=isch&hl=en&rlz=1C1ONGR_enUS1049US1049&sa=X&ved=2ahUKEwidvsaysOP-AhVbE94AHZc6DKEQrNwCKAB6BAgBEGE&biw=1903&bih=872#imgrc=QAIw-rjknB1VAM
 
-* Run Buddy
-
-https://www.google.com/search?q=run+buddy+start+building+habits&tbm=isch&ved=2ahUKEwjuwPvuseP-AhWQMt4AHccgAz8Q2-cCegQIABAA&oq=run+buddy+start+building+habits&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQCBAeUPMOWII0YP40aANwAHgAgAGXAYgB5Q2SAQQyNC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=37FXZK7VF5Dl-LYPx8GM-AM&bih=872&biw=1903&rlz=1C1ONGR_enUS1049US1049&hl=en#imgrc=01RI_7uEs1iSdM
-
-* Screenshot 
-
-Screenshot-header.png (snipping tool)
+Screenshot-header.png (snipping tool) snip of Mock-up.
