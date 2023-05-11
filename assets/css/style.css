@@ -1,58 +1,76 @@
 :root{
-    color:bisque;
-    --nav-link-hover: gray;
+    --minor-color:whitesmoke;
+    --nav-link-hover: purple;
     --profile-link-hover:purple;
-    --footer-link-hover:blue;
+    --page-selection-link-hover:blue;
+    --main-bgcolor: black;
 
 }
 
 body{
-    background-image: url(../images/coffee.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    color: whitesmoke;
+    background-color: black;
+    background-size: 50%;
 }
 
 header{
     font-size: larger;
     text-align: center;
-    color: wheat;
-    background-size: cover;
-    background-image: url("../images/laptop.jpg");
-    background-repeat:no-repeat;
+    color: var(--minor-color:whitesmoke;)
+  
 }
 
-div.container{
-    text-align: center;
+h1, .a{
+    justify-content:space-between;
+    margin:2px 2px 2px 2px;
+    border: 2px 2px 2px 2px;
+    font-size: 100px;
 }
 
-nav, li{
+.nav, li{
     color: wheat;
-    text-decoration: none;
-    font-size: 40px;
-    flex-wrap: wrap;
-}
-nav, li, a{
-    text-align: center;
-    font-size: 45px;
-    display: inline-block;
     list-style-type: none;
-    display: flex;
+}
+
+.nav, li, a{
+    justify-content: space-between;
+    text-align: center;
     border: 5px 5px 5px 5px;
  }
 
+ li{
+    font-size: 40px;
+ }
+
+ .nav, a, li:hover{
+    opacity: 0.4;
+    color: gray;
+    box-shadow: 1px 1px 1px 1px white;
+
+ }
+
  h2{
+    box-shadow: 5px 5px 15px 5px lightblue;
+    background-color: var(--main-bgcolor);
     justify-content:center;
     text-align: center;
-    background-color:rgb(110, 71, 23);
+    
  }
+
  p{
+    text-align: center;
+    display: inline-block;
+    color: antiquewhite;
     font-size: 30px;
  }
 
  h3{
-    font-size: medium;
+    font-size: 40px;
  }
 
+ h3:hover{
+    opacity: 0.2;
+ }
  .profile{
     text-align: center;
     width: 50%;
@@ -62,37 +80,52 @@ nav, li, a{
  }
 
  .profile, img{
-    max-width: 20%;
+    text-align: justify;
+    box-shadow: 5px 5px;
+    max-width: 60%;
     height: auto;
  }
 
- .profile, .p{
-    text-align: justify;
- }
-
- .p0.p1, .p2, .p3{
-    display: block;
+    img, .p1, .p2, .p3, .p4{
+       display: grid;
+       column-gap: 50px;
+    }
+ .p0, .p1, .p2, .p3, .p4{
+    box-shadow: 5px 5px 15px 5px lightblue;
+    display:grid;
     margin-left:auto;
     margin-right: auto;
     width: 50%;
- text-align: center;
+    text-align: center;
 
  }
 
- footer{
+ .page-section{
+    margin: auto;
+    padding: 5px 5px 5px 5px;
+    border:5px 5px 5px 5px;
     color:beige;
-    list-style-type: none;
-
+    text-align: center;
+    
  }
 
- footer, ul, nav, li{
+ .page-section, .a{
     font-size: 30px;
-    list-style-type: none;
-    text-align: right;
-
+    border: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
  }
 
- @media screen and (max-width: 768px){
+ .page-section:hover{
+    opacity: 0.2;
+    padding: 2px auto;
+    --page-selection-link-hover:blue;
+ }
+
+ @media screen and (max-width: 900px) and (min-width:375){
+    .img{
+        grid-template-columns: 1fr;
+    }
+
     header{
         padding:0;
         flex-wrap: wrap;
@@ -105,39 +138,23 @@ nav, li, a{
         text-align: center;
         padding: 0;
         margin: 0 auto;
-        width: 100%;
+        width: 50%;
     }
 
     header nav{
         padding-right: 0;
     }
 
-    nav a{
-        border-bottom: 3px solid var(--nav-link-border);
+    .nav a{
+        border-bottom: 3px solid;
         font-size: small;
         justify-content: space-between;
         display: flex;
-        width: 100%;
+        width: 50%;
     }
 
-    #profile{
-        grid-template-rows: 100px 100px 100px 100px;
-        grid-template-columns: 30%;
-        display: grid;
-        width: 100%;
-        grid-template-areas:
-        "p0"
-        "p1"
-        "p2"
-        "p3";
-    }
-
-    .page-section{
-        border-bottom: 4px solid var(--section-border);
-        border-right: 0;
-    }
-
-    h2{
+    p, h2, h3{
+        display: flex;
         text-align: center;
     }
 
@@ -145,12 +162,14 @@ nav, li, a{
         height: 190px;
     }
 
-    footer{
-        padding: 0%;
+    img{
+        size: 5%;
+    }
+
+    .page-section{
+        
         align-items: center;
         flex-direction: column;
     }
-
-
 
 }

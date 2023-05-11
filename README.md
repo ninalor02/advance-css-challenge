@@ -26,14 +26,22 @@ These are the following files and folders that are placed in the folders:
 
 # Images/URL that was used for backgrounds:
 
-* coffee Image (google) url
+* Creativity Image (google) url
 
-https://www.google.com/search?rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdf-HbXcewy6WG8UagygewoKW6mSPQ:1683775666654&q=work+and+coffee+image&tbm=isch&sa=X&ved=2ahUKEwjg6feTqez-AhVllIkEHRprAVcQ0pQJegQICRAB&biw=1280&bih=649&dpr=1.5#imgrc=1qAXHae4pCfDIM
+https://www.google.com/search?q=creativity+images&tbm=isch&chips=q:creativity,g_1:design:vMDncYVuKvc%3D&rlz=1C1ONGR_enUS1049US1049&hl=en&sa=X&ved=2ahUKEwiD9bya0Oz-AhX7wMkDHZacCfoQ4lYoA3oECAEQMg&biw=1263&bih=592#imgrc=VhGREW35FEm_sM
 
 * laptop image (google) url
 
-https://www.google.com/search?rlz=1C1ONGR_enUS1049US1049&sxsrf=APwXEdf-HbXcewy6WG8UagygewoKW6mSPQ:1683775666654&q=work+and+coffee+image&tbm=isch&sa=X&ved=2ahUKEwjg6feTqez-AhVllIkEHRprAVcQ0pQJegQICRAB&biw=1280&bih=649&dpr=1.5#imgrc=0X1IbkybPHTo_M
 
-* coding image (gogole) url
+
+* coding image (google) url
 
 https://www.google.com/search?q=coding+images&tbm=isch&ved=2ahUKEwi_lc3Tvez-AhWkKd4AHc3nAVoQ2-cCegQIABAA&oq=coding+images&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6CQgAEBgQgAQQCjoHCAAQigUQQzoKCAAQigUQsQMQQzoECAAQAzoFCAAQsQM6CAgAELEDEIMBULEHWKYVYKUWaABwAHgAgAFmiAH_B5IBBDEyLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=MHZcZL-9NaTT-LYPzc-H0AU&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=r2l_Vk9_4zZ9dM
+
+* Web-Dev image 
+
+https://www.google.com/search?q=web+development+images&&tbm=isch&ved=2ahUKEwjwqdrPv-z-AhUxwMkDHd8yBtgQ2-cCegQIABAA&oq=web+dev&gs_lcp=CgNpbWcQDDIHCAAQigUQQzIKCAAQigUQsQMQQzIHCAAQigUQQzIHCAAQigUQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOg0IABCKBRCxAxCDARBDOggIABCABBCxA1DBCVinEmDKQmgAcAB4AIABaogB-wSSAQM3LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=QXhcZLCFI7GAp84P3-WYwA0&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=VaNQmXxMGnNiBM
+
+* tutor image
+
+https://www.google.com/search?q=tutor+images&tbm=isch&ved=2ahUKEwiZ59fMwez-AhVCFd4AHbbRCk0Q2-cCegQIABAA&oq=tutor+images&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAgQHjIGCAAQCBAeMgcIABAYEIAEOgoIABCKBRCxAxBDOggIABCABBCxAzoHCAAQigUQQzoICAAQsQMQgwFQiyBY1yZg3ydoAHAAeACAAfUBiAHDCpIBBTIuMy4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=VHpcZJntBsKq-LYPtqOr6AQ&bih=649&biw=1280&rlz=1C1ONGR_enUS1049US1049#imgrc=IrWuI5Xu8OPomM
