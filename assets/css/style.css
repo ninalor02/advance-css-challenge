@@ -3,7 +3,7 @@
     --nav-link-hover: cyan;
     --page-selection-link-hover:rgb(84, 84, 170);
     --main-bgcolor: white;
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                                                            
 }
 
 body{
@@ -60,7 +60,7 @@ h2{
    margin: 1%;
 }
 
-/* applies to container, about me, work, footer */
+/* applies to header,body,main,footer */
 ul, div, .h2{
    border: 10px 10px 10px 10px;
    margin:10px 10px 10px 10px;
@@ -75,7 +75,7 @@ main, .container{
   box-shadow: 5px 5px 5px 5px rgb(51, 69, 173);
 }
 
-/* applies to top nav and footer */
+/* applies to header and footer */
 ul, .div{
    border: 10px 10px 10px 10px;
    justify-content:center;
@@ -89,6 +89,8 @@ ul, div:hover{
    display:block;
    align-items: center;
 }
+
+/* applies to about me and all of h2*/
 .page-selection{
    box-shadow: 5px 5px 5px 5px rgb(51, 69, 173);
 }
@@ -99,29 +101,31 @@ ul, div:hover{
    text-align: center;
    color: var(--major-color);
 }
+
+/* applies to all of figure/images */
 figcaption, figure, img:hover{
 color: cyan;
-
 }
+
 img, .profile{
    box-shadow: 5px 5px 5px 5px rgb(85, 89, 90);
    width: 50%;
    margin-right: auto;
    margin-left: auto;
 }
-
+/* applies to all of h2/images */
 figcaption{
    box-shadow: 5px 5px 5px 5px rgb(85, 89, 90);
    justify-content: center;
 }
-
+ /* applies to all of h3 */
 h3{
    font-size: 32px;
    box-shadow: 5px 5px 5px 5px rgb(56, 122, 155);
    border: 3px 3px 3px 3px;
    color: var(--major-color);
 }
-
+ /* applies to all h1,h2,h3,para., container,div,li,footer*/
 div, a{
    text-align: right;
    text-align: justify;
@@ -134,15 +138,17 @@ footer{
    border: auto;
 }
 
+/* applies to ul and ul div on footer */
 ul, .div{
    margin: auto;
    border: auto;
 }
+/* applies to all h2, div, page-selection, footer-div */
 .footer, div, a:hover{
 color: cyan;
 }
 
-@media screen and (max-width: 786){
+@media screen and (max-width: 967){
    body{
       background-color: rgb(115, 75, 148);
    }
@@ -151,9 +157,5 @@ color: cyan;
 @media screen and (min-width:365){
    body{
       background-color: rgb(117, 112, 112);
-   }
-
-   img{
-      flex-wrap: 50%;
    }
 }

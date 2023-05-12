@@ -1,5 +1,7 @@
 # Advance CSS Challange
 
+I've am having some errors regarding the dev tools for the media queries(so it probably won't be in effect)
+
 # Lernantino Mock-up Challenge
 
 These are the following files and folders that are placed in the folders:
@@ -9,7 +11,6 @@ These are the following files and folders that are placed in the folders:
 - The README.md file is in the advance-css-challenge folder.
 - The css folder is placed inside the assets folder.
 - Inside the css folder contains the style.css file.
-- Inside the css folder contains the reset css file.
 - Image files are in the Images folder.
 - The Image folder is in the assets folder.
 
